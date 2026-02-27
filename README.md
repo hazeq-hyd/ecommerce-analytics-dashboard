@@ -1,15 +1,9 @@
-# E-Commerce Analytics Dashboard
+# E-commerce Analytics Dashboard
 
-## Overview
-Analyzed customer purchasing behavior and revenue trends to support marketing and retention strategies.
+This project analyzes e-commerce sales data using Python & Streamlit.
 
-## Key Insights
-• Identified top 20% customers generating 65% revenue  
-• Seasonal spikes in November & December  
-• High churn risk among low-frequency buyers  
-
-## Tools Used
-Python, Pandas, SQL, Streamlit
-
-## Business Impact
-Helps marketing teams target high-value customers and improve retention.
+## Features
+- Data cleaning & preprocessing
+- Revenue analysis
+- Country-level insights
+- Interactive dashboard
